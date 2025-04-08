@@ -7,8 +7,8 @@
   <li>My full name is Samir Alejandro Toledo Larrain, and I am 21 years old.</li>
   <li>I live in Santa Cruz de la Sierra, Bolivia.</li>
   <li>Hobbies: I like play videogames, practicing sports such as tennis, and I love drinking coffee.</li>
-  <li>My academic and life goal is to become a full-stack developer. I am passionate about web development, and I am currently learning independently to acquire the necessary skills and knowledge.</li>
-  <li>I am currently studying at <strong>Universidad NUR</strong>.</li>
+  <li>My dream is to become a full-stack developer. I'm passionate about web development, and I'm currently learning the necessary skills and knowledge.</li>
+  <li>I'm currently studying at <strong>Universidad NUR</strong>.</li>
   <li>I also have skills outside of programming, such as intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva platform.</li>
   <li>Languages: Spanish – Native, Portuguese – Intermediate, English – Intermediate.</li>
 </ul>
@@ -48,7 +48,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Contact ⚡</h2>
+<h2 align="center"> Contact... </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/stoledolarrain/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/stoledolarrain/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
