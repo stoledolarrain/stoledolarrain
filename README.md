@@ -4,7 +4,7 @@
 
 <div align="left">
   <ul>
-  <li>My name is Samir Alejandro Toledo Larrain, and I am 21 years old.</li>
+  <li>My full name is Samir Alejandro Toledo Larrain, and I am 21 years old.</li>
   <li>I live in Santa Cruz de la Sierra, Bolivia.</li>
   <li>Hobbies: I like play videogames, practicing sports such as tennis, and I love drinking coffee.</li>
   <li>My academic and life goal is to become a full-stack developer. I am passionate about web development, and I am currently learning independently to acquire the necessary skills and knowledge.</li>
