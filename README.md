@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />
   <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
 </p>
 
 <hr/>
