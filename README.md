@@ -2,9 +2,16 @@
   <h2>System engineering student</h2>
 </div>
 
-<div align="center">
-  <p>🌱 I’m currently learning <strong>MERN Stack</strong></p>
-  <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
+<div align="left">
+  <ul>
+            <li>Mi nombre es Samir Alejandro Toledo Larrain, tengo 21 años</li>
+            <li>Vivo en la ciudad de Santa Cruz de la Sierra, Bolivia</li>
+            <li>Hobbys: Me gusta jugar videojuegos, tambien me gusta hacer deporte como el tennis y me gusta tomar cafe</li>
+            <li>Mi meta de estudio y en la vida es se un desarrollador full stack, me gusta mucho el desarrollo web y en este tiempo estoy aprendiendo de manera autodidacta los metodos y aprendizajes para poder ser uno.</li>
+            <li>Estudio en la <strong>Universidad NUR</strong></li>
+            <li>Tengo dominios fuera de la programacion como Excel intermedio-avanzado, autocad 2D y 3D, diseños de logos, banners, etc. en la plataforma "Canva".</li>
+            <li>Idiomas: Español - Nativo, Portugues - Intermedio, Ingles - Intermedio</li>
+  </ul>
 </div>
 
 <hr/>
