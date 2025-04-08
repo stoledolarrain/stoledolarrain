@@ -1,14 +1,5 @@
 <div align="center">
   <h2>System engineering student</h2>
-  <ul>
-            <li>LG G Watch: LCA43 desde LDZ22D</li>
-            <li>LG G Watch R: LCA44B desde LDZ22D</li>
-            <li>LG Watch Urbane: LCA44B desde LDZ22D</li>
-            <li>Samsung Gear Live: No disponible</li>
-            <li>Sony SmartWatch 3: LCA43 desde LDZ22D</li>
-            <li>Asus ZenWatch: No disponible</li>
-        </ul>
-  
 </div>
 
 <div align="center">
