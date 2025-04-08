@@ -1,13 +1,10 @@
 <div align="center">
   <h2>System engineering student</h2>
-  <p>
-    - Me llamo Samir Alejandro Toledo Larrain, tengo 21 años.
-    - Vivo en la ciudad de Santa Cruz de la Sierra, Bolivia
-    - Hobbys: Me gusta jugar videojuegos, como tambien me gusta hacer deportes como el Tennis y tomar cafe
-    - Mi meta de estudio y de la vida es ser un desarrollador web full stack, me gusta mucho el diseño web y en este tiempo estoy aprendiendo de manera autodidacta los requerimientos para poder ser
-    un desarrollador full stack.
-    - Estudio en la <strong>Universidad NUR</strong>
-  </p>
+  ## About Me :
+- 🎓 Studies for Systems Engineering at [Universidad NUR](https://www.nur.edu/)
+- 📚 Self-learning: Constantly taking online courses and expanding knowledge in AI, web development, and software engineering through platforms like Udemy, Coursera, and YouTube.
+- 🏡'Lives in **Santa Cruz - Bolvia**'
+- ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞 ![icons8-gym-16 (1)](https://github.com/user-attachments/assets/e9ac6850-db74-4625-a5b4-e30ef25ea649)
 </div>
 
 <div align="center">
