@@ -1,10 +1,14 @@
 <div align="center">
   <h2>System engineering student</h2>
-  ## About Me :
-- 🎓 Studies for Systems Engineering at [Universidad NUR](https://www.nur.edu/)
-- 📚 Self-learning: Constantly taking online courses and expanding knowledge in AI, web development, and software engineering through platforms like Udemy, Coursera, and YouTube.
-- 🏡'Lives in **Santa Cruz - Bolvia**'
-- ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞 ![icons8-gym-16 (1)](https://github.com/user-attachments/assets/e9ac6850-db74-4625-a5b4-e30ef25ea649)
+  <ul>
+            <li>LG G Watch: LCA43 desde LDZ22D</li>
+            <li>LG G Watch R: LCA44B desde LDZ22D</li>
+            <li>LG Watch Urbane: LCA44B desde LDZ22D</li>
+            <li>Samsung Gear Live: No disponible</li>
+            <li>Sony SmartWatch 3: LCA43 desde LDZ22D</li>
+            <li>Asus ZenWatch: No disponible</li>
+        </ul>
+  
 </div>
 
 <div align="center">
