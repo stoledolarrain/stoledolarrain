@@ -4,14 +4,15 @@
 
 <div align="left">
   <ul>
-            <li>Mi nombre es Samir Alejandro Toledo Larrain, tengo 21 años</li>
-            <li>Vivo en la ciudad de Santa Cruz de la Sierra, Bolivia</li>
-            <li>Hobbys: Me gusta jugar videojuegos, tambien me gusta hacer deporte como el tennis y me gusta tomar cafe</li>
-            <li>Mi meta de estudio y en la vida es se un desarrollador full stack, me gusta mucho el desarrollo web y en este tiempo estoy aprendiendo de manera autodidacta los metodos y aprendizajes para poder ser uno.</li>
-            <li>Estudio en la <strong>Universidad NUR</strong></li>
-            <li>Tengo dominios fuera de la programacion como Excel intermedio-avanzado, autocad 2D y 3D, diseños de logos, banners, etc. en la plataforma "Canva".</li>
-            <li>Idiomas: Español - Nativo, Portugues - Intermedio, Ingles - Intermedio</li>
-  </ul>
+  <li>My name is Samir Alejandro Toledo Larrain, and I am 21 years old.</li>
+  <li>I live in the city of Santa Cruz de la Sierra, Bolivia.</li>
+  <li>Hobbies: I enjoy playing video games, practicing sports such as tennis, and drinking coffee.</li>
+  <li>My academic and life goal is to become a full-stack developer. I am passionate about web development, and I am currently learning independently to acquire the necessary skills and knowledge.</li>
+  <li>I am currently studying at <strong>Universidad NUR</strong>.</li>
+  <li>I also have skills outside of programming, such as intermediate-advanced Excel, 2D and 3D AutoCAD, and graphic design (logos, banners, etc.) using the Canva platform.</li>
+  <li>Languages: Spanish – Native, Portuguese – Intermediate, English – Intermediate.</li>
+</ul>
+
 </div>
 
 <hr/>
