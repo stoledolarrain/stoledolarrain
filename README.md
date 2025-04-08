@@ -43,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" />
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
 <hr/>
