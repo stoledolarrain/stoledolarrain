@@ -9,7 +9,7 @@
   <li>Hobbies: I like play videogames, practicing sports such as tennis, and I love drinking coffee.</li>
   <li>My dream is to become a full-stack developer. I'm passionate about web development, and I'm currently learning the necessary skills and knowledge.</li>
   <li>I'm currently studying at <strong>Universidad NUR</strong>.</li>
-  <li>I also have skills outside of programming, such as intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva platform.</li>
+  <li>I have skills outside of programming, intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva and Photoshop.</li>
   <li>Languages: Spanish – Native, Portuguese – Intermediate, English – Intermediate.</li>
 </ul>
 
