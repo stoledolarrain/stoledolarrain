@@ -24,11 +24,21 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Languages... 💻</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,kotlin,mysql&perline=4" />
+  </a>
+</p>
+
+<hr/>
+
+<h2 align="center">📓 Other domains... 📓</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,wordpress,arduino,idea,pycharm,sublime&perline=6" />
   </a>
 </p>
 
