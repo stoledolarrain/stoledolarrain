@@ -39,12 +39,6 @@
   <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" />
   <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" />
-  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
