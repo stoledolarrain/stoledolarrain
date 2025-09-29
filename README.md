@@ -38,8 +38,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" />
   <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
 
 <hr/>
