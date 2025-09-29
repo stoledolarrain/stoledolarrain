@@ -21,13 +21,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=py" title="Python" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="Postgres" />
 </p>
 
 
