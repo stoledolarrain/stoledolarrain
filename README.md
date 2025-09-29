@@ -10,12 +10,13 @@
   <li>My dream is to become a full-stack developer. I'm passionate about web development, and I'm currently learning the necessary skills and knowledge.</li>
   <li>I'm currently studying at <strong>Universidad NUR</strong>.</li>
   <li>I have skills outside of programming, intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva and Photoshop.</li>
-  <li>Languages:</li>
+  <li>Languages:
     <ul>
       <li>Spanish – Native</li>
       <li>Portuguese – Intermediate</li>
       <li>English – Intermediate</li>
     </ul>
+    </li>
 </ul>
 
 </div>
