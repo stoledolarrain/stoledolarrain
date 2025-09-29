@@ -12,7 +12,7 @@
   <li>I have skills outside of programming, intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva and Photoshop.</li>
   <li>Languages:</li>
     <ul>
-      <li>Spanish – Native<li>
+      <li>Spanish – Native</li>
       <li>Portuguese – Intermediate</li>
       <li>English – Intermediate</li>
     </ul>
