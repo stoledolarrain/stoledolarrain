@@ -40,7 +40,7 @@
 <h2 align="center">📓 Other domains... 📓</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" />
+  <!-- <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" /> -->
   <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
