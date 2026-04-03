@@ -30,8 +30,9 @@
         src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8"
       />
     </p>
-    #### UX / UI y Diseño
-    <p align="center">
+    
+#### UX / UI y Diseño
+<p align="center">
       <img
         src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8"
       />
