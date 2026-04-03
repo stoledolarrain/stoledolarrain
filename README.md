@@ -70,7 +70,7 @@
         src="https://skillicons.dev/icons?i=discord"
         height="50"
         width="50"
-        alt="Discord: crxzysam"
-        title="Discord: crxzysam"
+        alt="Discord: stoledolarrain"
+        title="Discord: stoledolarrain"
       />
     </p>
