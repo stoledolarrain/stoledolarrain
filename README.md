@@ -4,7 +4,7 @@
 
 <div align="left">
   <ul>
-  <li>My full name is Samir Alejandro Toledo Larrain, and I am 21 years old.</li>
+  <li>Hello!, I'm Samir, and I am 22 years old.</li>
   <li>I live in Santa Cruz de la Sierra, Bolivia.</li>
   <li>Hobbies: I like play videogames, practicing sports such as tennis, and I love drinking coffee.</li>
   <li>My dream is to become a full-stack developer. I'm passionate about web development, and I'm currently learning the necessary skills.</li>
@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
