@@ -33,7 +33,7 @@
 #### UX / UI y Diseño
 <p align="center">
       <img
-        src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8" />    
+        src="https://skillicons.dev/icons?i=figma&theme=dark&perline=8" />    
       </p>
 
 #### Herramientas
