@@ -36,9 +36,11 @@
       <img
         src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8"
       />
-    </p>
-    #### Herramientas
-    <p align="center">
+    
+</p>
+
+#### Herramientas
+<p align="center">
       <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=8" />
     </p>
     <p align="center">
@@ -47,9 +49,9 @@
         configuración de equipos</em
       >
     </p>
---- ### 📬 Contáctame
-
- <p align="center">
+    
+### 📬 Contáctame
+<p align="center">
       <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=linkedin"
@@ -58,14 +60,14 @@
           alt="LinkedIn"
         />
       </a>
-      <a href="https://www.instagram.com/stoledolarrain/" target="_blank">
+<a href="https://www.instagram.com/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=instagram"
           height="50"
           width="50"
           alt="Instagram"
         />
-      </a>
+</a>
       <img
         src="https://skillicons.dev/icons?i=discord"
         height="50"
