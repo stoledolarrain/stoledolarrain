@@ -1,11 +1,10 @@
 <div align="center">
       <h1>Samir Alejandro Toledo Larrain</h1>
       <h2>
-        Estudiante de Ingeniería en Sistemas • Aspirante a Full Stack Developer
+        Software Engineer Student | Web Developer | UX/UI
       </h2>
     </div>
-
---- ### Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
+      Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
     **Universidad NUR** (Santa Cruz de la Sierra, Bolivia). - 22 años,
     apasionado por el desarrollo web y la experiencia de usuario. - Actualmente
     enfocado en **Frontend + UX/UI**, con bases sólidas en Backend y bases de
@@ -34,10 +33,8 @@
 #### UX / UI y Diseño
 <p align="center">
       <img
-        src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8"
-      />
-    
-</p>
+        src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8" />    
+      </p>
 
 #### Herramientas
 <p align="center">
