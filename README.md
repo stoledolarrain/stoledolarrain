@@ -1,11 +1,11 @@
-    <div align="center">
+<div align="center">
       <h1>Samir Alejandro Toledo Larrain</h1>
       <h2>
         Estudiante de Ingeniería en Sistemas • Aspirante a Full Stack Developer
       </h2>
     </div>
 
-    --- ### Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
+--- ### Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
     **Universidad NUR** (Santa Cruz de la Sierra, Bolivia). - 22 años,
     apasionado por el desarrollo web y la experiencia de usuario. - Actualmente
     enfocado en **Frontend + UX/UI**, con bases sólidas en Backend y bases de
@@ -19,40 +19,36 @@
       />
     </p>
 
-    #### Backend
-    <p align="center">
+#### Backend
+<p align="center">
       <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=8" />
     </p>
 
-    #### Bases de Datos
-    <p align="center">
+#### Bases de Datos
+<p align="center">
       <img
         src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8"
       />
     </p>
-
     #### UX / UI y Diseño
     <p align="center">
       <img
         src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8"
       />
     </p>
-
     #### Herramientas
     <p align="center">
       <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=8" />
     </p>
-
     <p align="center">
       <em
         >Excel (intermedio) • Creación de APIs REST • Soporte técnico y
         configuración de equipos</em
       >
     </p>
+--- ### 📬 Contáctame
 
-    --- ### 📬 Contáctame
-
-    <p align="center">
+ <p align="center">
       <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=linkedin"
