@@ -1,60 +1,79 @@
-<div align="center">
-  <h2>System engineering student</h2>
-</div>
+    <div align="center">
+      <h1>Samir Alejandro Toledo Larrain</h1>
+      <h2>
+        Estudiante de Ingeniería en Sistemas • Aspirante a Full Stack Developer
+      </h2>
+    </div>
 
-<div align="left">
-  <ul>
-  <li>Hello!, I'm Samir, and I am 22 years old.</li>
-  <li>I live in Santa Cruz de la Sierra, Bolivia.</li>
-  <li>Hobbies: I like play videogames, practicing sports such as tennis, and I love drinking coffee.</li>
-  <li>My dream is to become a full-stack developer. I'm passionate about web development, and I'm currently learning the necessary skills.</li>
-  <li>I'm currently studying at <strong>Universidad NUR</strong>.</li>
-  <li>I have skills outside of programming, intermediate-advanced Excel,AutoCAD 2D and 3D, and graphic design (logos, banners, etc.) using the Canva and Photoshop.</li>
-  <li>Languages:
-    <ul>
-      <li>Spanish – Native</li>
-      <li>Portuguese – Intermediate</li>
-      <li>English – Intermediate</li>
-    </ul>
-    </li>
-</ul>
+    --- ### Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
+    **Universidad NUR** (Santa Cruz de la Sierra, Bolivia). - 22 años,
+    apasionado por el desarrollo web y la experiencia de usuario. - Actualmente
+    enfocado en **Frontend + UX/UI**, con bases sólidas en Backend y bases de
+    datos. - Mi objetivo es crecer como **Junior Full Stack Developer**. -
+    Hobbies: videojuegos, tenis y un buen café ☕. ### Idiomas - Español –
+    Nativo - Inglés – Intermedio - Portugués – Intermedio --- ### 💻 Habilidades
+    Técnicas #### Frontend
+    <p align="center">
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=8"
+      />
+    </p>
 
-</div>
+    #### Backend
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=8" />
+    </p>
 
-<hr/>
+    #### Bases de Datos
+    <p align="center">
+      <img
+        src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8"
+      />
+    </p>
 
-<h2 align="center">💻 Languages... 💻</h2>
+    #### UX / UI y Diseño
+    <p align="center">
+      <img
+        src="https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=8"
+      />
+    </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-</p>
+    #### Herramientas
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=8" />
+    </p>
 
+    <p align="center">
+      <em
+        >Excel (intermedio) • Creación de APIs REST • Soporte técnico y
+        configuración de equipos</em
+      >
+    </p>
 
-<hr/>
+    --- ### 📬 Contáctame
 
-<h2 align="center">📓 Other domains... 📓</h2>
-
-<p align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=autocad" title="AutoCAD" /> -->
-  <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-</p>
-
-<hr/>
-
-<h2 align="center"> Contact... </h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/stoledolarrain/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/stoledolarrain/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-<img align="center" src="https://skillicons.dev/icons?i=discord" title="Discord: crxzysam" alt="discord" height="50" width="50" />
-</p>
-
-
+    <p align="center">
+      <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
+        <img
+          src="https://skillicons.dev/icons?i=linkedin"
+          height="50"
+          width="50"
+          alt="LinkedIn"
+        />
+      </a>
+      <a href="https://www.instagram.com/stoledolarrain/" target="_blank">
+        <img
+          src="https://skillicons.dev/icons?i=instagram"
+          height="50"
+          width="50"
+          alt="Instagram"
+        />
+      </a>
+      <img
+        src="https://skillicons.dev/icons?i=discord"
+        height="50"
+        width="50"
+        alt="Discord: crxzysam"
+        title="Discord: crxzysam"
+      />
+    </p>
