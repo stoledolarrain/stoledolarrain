@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=pg" title="PostgreSQL" />
 </p>
 
 
