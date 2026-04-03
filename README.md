@@ -31,9 +31,10 @@
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=pg" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
 </p>
 
 
