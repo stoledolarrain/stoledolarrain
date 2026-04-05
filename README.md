@@ -4,51 +4,46 @@
         Software Engineer Student | Web Developer | UX/UI
       </h2>
     </div>
-      Sobre mí - Estudiante de **Ingeniería en Sistemas** en la
-    **Universidad NUR** (Santa Cruz de la Sierra, Bolivia). - 22 años,
-    apasionado por el desarrollo web y la experiencia de usuario. - Actualmente
-    enfocado en **Frontend + UX/UI**, con bases sólidas en Backend y bases de
-    datos. - Mi objetivo es crecer como **Junior Full Stack Developer**. -
-    Hobbies: videojuegos, tenis y un buen café ☕. ### Idiomas - Español –
-    Nativo - Inglés – Intermedio - Portugués – Intermedio --- ### 💻 Habilidades
-    Técnicas #### Frontend
-    <p align="center">
+Estudiante de Ingeniería de Sistemas con experiencia en soporte técnico y enfoque en la experiencia de usuario. Apasionado por el desarrollo web, con conocimientos en frontend, UX/UI, backend y bases de datos.
+Actualmente enfocado en crecer como Web Developer, fortaleciendo mis habilidades en desarrollo full stack y creando soluciones centradas en el usuario.
+
+    
+### Idiomas - Español –
+Nativo - Inglés – Intermedio - Portugués – Intermedio --- ### 
+Habilidades
+    Técnicas 
+#### Frontend
+<p>
       <img
         src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=8"
       />
     </p>
 
 #### Backend
-<p align="center">
+<p>
       <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=8" />
     </p>
 
 #### Bases de Datos
-<p align="center">
+<p>
       <img
         src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8"
       />
     </p>
     
 #### UX / UI y Diseño
-<p align="center">
+<p>
       <img
         src="https://skillicons.dev/icons?i=figma&theme=dark&perline=8" />    
       </p>
 
 #### Herramientas
-<p align="center">
+<p>
       <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=8" />
-    </p>
-    <p align="center">
-      <em
-        >Excel (intermedio) • Creación de APIs REST • Soporte técnico y
-        configuración de equipos</em
-      >
     </p>
     
 ### 📬 Contáctame
-<p align="center">
+<p>
       <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=linkedin"
