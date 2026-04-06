@@ -27,15 +27,21 @@ Actualmente enfocado en crecer como Web Developer, fortaleciendo mis habilidades
 
 #### Backend
 <p>
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=8" />
+      <img src="https://skillicons.dev/icons?i=nodejs,java&theme=dark&perline=8" />
     </p>
 
 #### Bases de Datos
 <p>
       <img
-        src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8"
+        src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=8"
       />
     </p>
+
+#### Desarrollo Móvil
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+</p>
+
     
 #### UX / UI y Diseño
 <p>
