@@ -4,14 +4,19 @@
         Software Engineer Student | Web Developer | UX/UI
       </h2>
     </div>
+    
+#### Sobre mí...
+<p>
 Estudiante de Ingeniería de Sistemas con experiencia en soporte técnico y enfoque en la experiencia de usuario. Apasionado por el desarrollo web, con conocimientos en frontend, UX/UI, backend y bases de datos.
 Actualmente enfocado en crecer como Web Developer, fortaleciendo mis habilidades en desarrollo full stack y creando soluciones centradas en el usuario.
-
+</p>
     
-### Idiomas - Español –
-Nativo - Inglés – Intermedio - Portugués – Intermedio --- ### 
-Habilidades
-    Técnicas 
+#### Idiomas 
+- Español – Nativo
+- Inglés – Intermedio
+- Portugués – Intermedio
+
+<h2>Habilidades</h2> 
 #### Frontend
 <p>
       <img
