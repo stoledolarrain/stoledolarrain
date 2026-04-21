@@ -59,23 +59,17 @@ Actualmente enfocado en crecer como Web Developer, fortaleciendo mis habilidades
       <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=linkedin"
-          height="50"
-          width="50"
           alt="LinkedIn"
         />
       </a>
 <a href="https://www.instagram.com/stoledolarrain/" target="_blank">
         <img
           src="https://skillicons.dev/icons?i=instagram"
-          height="50"
-          width="50"
           alt="Instagram"
         />
 </a>
       <img
         src="https://skillicons.dev/icons?i=discord"
-        height="50"
-        width="50"
         alt="Discord: stoledolarrain"
         title="Discord: stoledolarrain"
       />
