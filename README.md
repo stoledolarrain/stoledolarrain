@@ -54,7 +54,7 @@ Actualmente enfocado en crecer como Web Developer, fortaleciendo mis habilidades
       <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=8" />
     </p>
     
-### 📬 Contáctame
+### Contáctame
 <p>
       <a href="https://www.linkedin.com/in/stoledolarrain/" target="_blank">
         <img
